@@ -1,0 +1,14 @@
+{
+  "name": "Nitrate-master",
+  "version": "1.0.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "./src/node main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "discord.js": "^11.5.1",
+    "phin": "^3.5.0"
+  }
+}
