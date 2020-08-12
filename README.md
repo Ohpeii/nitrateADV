@@ -24,4 +24,4 @@ __**You must put your main token in `config.json`**__
 4. After all completed go to "start" once again and run "runClaimer.bat"
 ```
 
-If you wish to contact me, join our telegram group:  http://t.me/nitroclaimer
+
